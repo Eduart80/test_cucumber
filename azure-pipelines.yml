@@ -1,7 +1,6 @@
 
 trigger:
 - main
-- push
 
 pool:
   vmImage: ubuntu-latest
