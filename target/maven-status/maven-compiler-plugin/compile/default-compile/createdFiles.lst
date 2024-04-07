@@ -1,0 +1,4 @@
+App\mathClass.class
+unitTest\testingMath.class
+App\testSingleton.class
+App\singleton.class
