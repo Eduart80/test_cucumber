@@ -6,8 +6,9 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features = {"src/test/resources/Feature"},
         glue = {"SDfile", "WebDriver"},
-//        tags = "@unit",
+        tags = "@unit",
         plugin = {"pretty","html:target/cucumber"},
+       // dryRun = true,
         monochrome = true
 )
 public class testRunner {

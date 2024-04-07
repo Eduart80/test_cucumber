@@ -1,0 +1,64 @@
+{
+  "uid" : "6fb9fe59c94d2551",
+  "name" : "Then i should get 7",
+  "fullName" : "Unit test.Then i should get 7",
+  "historyId" : "b351615d03ab78f8b1924a6ba1bb675d",
+  "time" : {
+    "start" : 1712518476659,
+    "stop" : 1712518476659,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Retest the testing page"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PICR38M"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Unit test"
+  }, {
+    "name" : "thread",
+    "value" : "20824@DESKTOP-PICR38M.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Unit test"
+  }, {
+    "name" : "testClass",
+    "value" : "Unit test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then i should get 7"
+  }, {
+    "name" : "package",
+    "value" : "Unit test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6fb9fe59c94d2551.json",
+  "parameterValues" : [ ]
+}

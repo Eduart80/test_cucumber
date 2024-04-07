@@ -1,0 +1,64 @@
+{
+  "uid" : "6da234dbe8eaac8",
+  "name" : "When on page enter name Mozaik",
+  "fullName" : "enter the name, phone, number.When on page enter name Mozaik",
+  "historyId" : "196a955d6f3dc7d9f55d3b6532dfc12b",
+  "time" : {
+    "start" : 1712518471397,
+    "stop" : 1712518471397,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Retest the testing page"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PICR38M"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "thread",
+    "value" : "20824@DESKTOP-PICR38M.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testClass",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testMethod",
+    "value" : "When on page enter name Mozaik"
+  }, {
+    "name" : "package",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6da234dbe8eaac8.json",
+  "parameterValues" : [ ]
+}

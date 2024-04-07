@@ -29,4 +29,5 @@ jobs:
         cache: maven
     - name: Run Test with Maven
       run: mvn clean test
-
+    -name: Generate allure report
+      run: allure generate target/allure-results

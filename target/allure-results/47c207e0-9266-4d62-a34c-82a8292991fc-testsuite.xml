@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1712518471070" stop="1712518472558" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>enter the name, phone, number</name>
+    <title>enter the name, phone, number</title>
+    <test-cases>
+        <test-case start="1712518471098" stop="1712518471102" status="passed">
+            <name>Given the url</name>
+            <title>Given the url</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1712518471397" stop="1712518471397" status="passed">
+            <name>When on page enter name Mozaik</name>
+            <title>When on page enter name Mozaik</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1712518471525" stop="1712518471525" status="passed">
+            <name>And enter your email test@test.com</name>
+            <title>And enter your email test@test.com</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1712518471637" stop="1712518471637" status="passed">
+            <name>And enter your phone 123-456-7890</name>
+            <title>And enter your phone 123-456-7890</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1712518471741" stop="1712518471741" status="passed">
+            <name>Then click male radio button</name>
+            <title>Then click male radio button</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="enter the name, phone, number"/>
+        <label name="feature" value="Retest the testing page"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

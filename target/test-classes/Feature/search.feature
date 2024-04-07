@@ -1,4 +1,4 @@
-
+@unit
 Feature: Retest the testing page
 
   Scenario: enter the name, phone, number

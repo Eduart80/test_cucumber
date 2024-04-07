@@ -1,0 +1,81 @@
+[ {
+  "uid" : "4a1c669734c78f0e",
+  "name" : "And enter your email test@test.com",
+  "time" : {
+    "start" : 1712518471525,
+    "stop" : 1712518471525,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a0e2eaf35e563b1f",
+  "name" : "When i enter 5 adding 2",
+  "time" : {
+    "start" : 1712518476657,
+    "stop" : 1712518476657,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4158425629a317ed",
+  "name" : "Given the file in app",
+  "time" : {
+    "start" : 1712518476654,
+    "stop" : 1712518476654,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "176b5c7198089a76",
+  "name" : "And enter your phone 123-456-7890",
+  "time" : {
+    "start" : 1712518471637,
+    "stop" : 1712518471637,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6da234dbe8eaac8",
+  "name" : "When on page enter name Mozaik",
+  "time" : {
+    "start" : 1712518471397,
+    "stop" : 1712518471397,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fb9fe59c94d2551",
+  "name" : "Then i should get 7",
+  "time" : {
+    "start" : 1712518476659,
+    "stop" : 1712518476659,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8a02a37936f1825",
+  "name" : "Then click male radio button",
+  "time" : {
+    "start" : 1712518471741,
+    "stop" : 1712518471741,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5bd7f9d1dc42c62",
+  "name" : "Given the url",
+  "time" : {
+    "start" : 1712518471098,
+    "stop" : 1712518471102,
+    "duration" : 4
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

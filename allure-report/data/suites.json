@@ -1,0 +1,117 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "enter the name, phone, number",
+    "children" : [ {
+      "name" : "Given the url",
+      "uid" : "d5bd7f9d1dc42c62",
+      "parentUid" : "8b7eea42f654bc6580b4f3b6d3c35a7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518471098,
+        "stop" : 1712518471102,
+        "duration" : 4
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When on page enter name Mozaik",
+      "uid" : "6da234dbe8eaac8",
+      "parentUid" : "8b7eea42f654bc6580b4f3b6d3c35a7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518471397,
+        "stop" : 1712518471397,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And enter your email test@test.com",
+      "uid" : "4a1c669734c78f0e",
+      "parentUid" : "8b7eea42f654bc6580b4f3b6d3c35a7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518471525,
+        "stop" : 1712518471525,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "And enter your phone 123-456-7890",
+      "uid" : "176b5c7198089a76",
+      "parentUid" : "8b7eea42f654bc6580b4f3b6d3c35a7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518471637,
+        "stop" : 1712518471637,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then click male radio button",
+      "uid" : "a8a02a37936f1825",
+      "parentUid" : "8b7eea42f654bc6580b4f3b6d3c35a7f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518471741,
+        "stop" : 1712518471741,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "8b7eea42f654bc6580b4f3b6d3c35a7f"
+  }, {
+    "name" : "Unit test",
+    "children" : [ {
+      "name" : "Given the file in app",
+      "uid" : "4158425629a317ed",
+      "parentUid" : "d0fd7fc9887413bd0e9b5fb19ecb96f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518476654,
+        "stop" : 1712518476654,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "When i enter 5 adding 2",
+      "uid" : "a0e2eaf35e563b1f",
+      "parentUid" : "d0fd7fc9887413bd0e9b5fb19ecb96f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518476657,
+        "stop" : 1712518476657,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Then i should get 7",
+      "uid" : "6fb9fe59c94d2551",
+      "parentUid" : "d0fd7fc9887413bd0e9b5fb19ecb96f1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1712518476659,
+        "stop" : 1712518476659,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d0fd7fc9887413bd0e9b5fb19ecb96f1"
+  } ]
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1712518476653" stop="1712518477424" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Unit test</name>
+    <title>Unit test</title>
+    <test-cases>
+        <test-case start="1712518476654" stop="1712518476654" status="passed">
+            <name>Given the file in app</name>
+            <title>Given the file in app</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1712518476657" stop="1712518476657" status="passed">
+            <name>When i enter 5 adding 2</name>
+            <title>When i enter 5 adding 2</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1712518476659" stop="1712518476659" status="passed">
+            <name>Then i should get 7</name>
+            <title>Then i should get 7</title>
+            <steps/>
+            <attachments/>
+            <labels>
+                <label name="host" value="DESKTOP-PICR38M"/>
+                <label name="thread" value="20824@DESKTOP-PICR38M.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="story" value="Unit test"/>
+        <label name="feature" value="Retest the testing page"/>
+        <label name="framework" value="CucumberJVM"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>
