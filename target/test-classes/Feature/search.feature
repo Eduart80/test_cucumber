@@ -9,6 +9,6 @@ Feature: Retest the testing page
     Then click male radio button
 
     Scenario: Unit test
-      Given the file in app
+      Given the file in app Japan
       When i enter 5 adding 2
       Then i should get 7

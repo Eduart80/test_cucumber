@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Scenario: Unit test" time="14.038" tests="10" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Scenario: Unit test" time="23.271" tests="10" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_321\jre\bin"/>
@@ -63,14 +63,14 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="Given the url" classname="Scenario: enter the name, phone, number" time="0.065"/>
+  <testcase name="Given the url" classname="Scenario: enter the name, phone, number" time="0.177"/>
   <testcase name="When on page enter name Mozaik" classname="Scenario: enter the name, phone, number" time="0"/>
-  <testcase name="And enter your email test@test.com" classname="Scenario: enter the name, phone, number" time="0.001"/>
+  <testcase name="And enter your email test@test.com" classname="Scenario: enter the name, phone, number" time="0"/>
   <testcase name="And enter your phone 123-456-7890" classname="Scenario: enter the name, phone, number" time="0.001"/>
   <testcase name="Then click male radio button" classname="Scenario: enter the name, phone, number" time="0"/>
-  <testcase name="Scenario: enter the name, phone, number" classname="Scenario: enter the name, phone, number" time="0.817"/>
-  <testcase name="Given the file in app" classname="Scenario: Unit test" time="0.001"/>
-  <testcase name="When i enter 5 adding 2" classname="Scenario: Unit test" time="0"/>
+  <testcase name="Scenario: enter the name, phone, number" classname="Scenario: enter the name, phone, number" time="0.796"/>
+  <testcase name="Given the file in app Japan" classname="Scenario: Unit test" time="0.001"/>
+  <testcase name="When i enter 5 adding 2" classname="Scenario: Unit test" time="0.001"/>
   <testcase name="Then i should get 7" classname="Scenario: Unit test" time="0"/>
-  <testcase name="Scenario: Unit test" classname="Scenario: Unit test" time="0.766"/>
+  <testcase name="Scenario: Unit test" classname="Scenario: Unit test" time="0.896"/>
 </testsuite>
