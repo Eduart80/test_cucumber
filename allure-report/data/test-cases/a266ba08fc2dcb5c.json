@@ -1,0 +1,64 @@
+{
+  "uid" : "a266ba08fc2dcb5c",
+  "name" : "And enter your email test@test.com",
+  "fullName" : "enter the name, phone, number.And enter your email test@test.com",
+  "historyId" : "73d48f53c0b41faa7322c5f379ee8413",
+  "time" : {
+    "start" : 1712542260158,
+    "stop" : 1712542260158,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Retest the testing page"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PICR38M"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "thread",
+    "value" : "18880@DESKTOP-PICR38M.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testClass",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testMethod",
+    "value" : "And enter your email test@test.com"
+  }, {
+    "name" : "package",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a266ba08fc2dcb5c.json",
+  "parameterValues" : [ ]
+}

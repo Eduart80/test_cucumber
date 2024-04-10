@@ -1,0 +1,64 @@
+{
+  "uid" : "11fb3958d39a0c53",
+  "name" : "When i enter 5 adding 2",
+  "fullName" : "Unit test.When i enter 5 adding 2",
+  "historyId" : "a88f400838c02d01fd8b0a1ef8a2366e",
+  "time" : {
+    "start" : 1712542273511,
+    "stop" : 1712542273511,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Retest the testing page"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PICR38M"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Unit test"
+  }, {
+    "name" : "thread",
+    "value" : "18880@DESKTOP-PICR38M.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Unit test"
+  }, {
+    "name" : "testClass",
+    "value" : "Unit test"
+  }, {
+    "name" : "testMethod",
+    "value" : "When i enter 5 adding 2"
+  }, {
+    "name" : "package",
+    "value" : "Unit test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "11fb3958d39a0c53.json",
+  "parameterValues" : [ ]
+}

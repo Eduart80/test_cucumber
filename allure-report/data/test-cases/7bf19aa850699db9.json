@@ -1,0 +1,64 @@
+{
+  "uid" : "7bf19aa850699db9",
+  "name" : "And enter your phone 123-456-7890",
+  "fullName" : "enter the name, phone, number.And enter your phone 123-456-7890",
+  "historyId" : "fc56bcd3aaf982891530b2c6582e25e7",
+  "time" : {
+    "start" : 1712542260323,
+    "stop" : 1712542260323,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Retest the testing page"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PICR38M"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "thread",
+    "value" : "18880@DESKTOP-PICR38M.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testClass",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testMethod",
+    "value" : "And enter your phone 123-456-7890"
+  }, {
+    "name" : "package",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7bf19aa850699db9.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,64 @@
+{
+  "uid" : "6de018580f41542d",
+  "name" : "Given the file in app Japan",
+  "fullName" : "Unit test.Given the file in app Japan",
+  "historyId" : "b836c83750e09361055818c6b1eb5862",
+  "time" : {
+    "start" : 1712542273507,
+    "stop" : 1712542273507,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Retest the testing page"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PICR38M"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "Unit test"
+  }, {
+    "name" : "thread",
+    "value" : "18880@DESKTOP-PICR38M.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "Unit test"
+  }, {
+    "name" : "testClass",
+    "value" : "Unit test"
+  }, {
+    "name" : "testMethod",
+    "value" : "Given the file in app Japan"
+  }, {
+    "name" : "package",
+    "value" : "Unit test"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6de018580f41542d.json",
+  "parameterValues" : [ ]
+}

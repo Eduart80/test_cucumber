@@ -1,0 +1,64 @@
+{
+  "uid" : "6a959b20dd779978",
+  "name" : "Then click male radio button",
+  "fullName" : "enter the name, phone, number.Then click male radio button",
+  "historyId" : "5da7b79427727bbaf56e205bff988a2b",
+  "time" : {
+    "start" : 1712542260427,
+    "stop" : 1712542260427,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "Retest the testing page"
+  }, {
+    "name" : "framework",
+    "value" : "CucumberJVM"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-PICR38M"
+  }, {
+    "name" : "language",
+    "value" : "JAVA"
+  }, {
+    "name" : "story",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "thread",
+    "value" : "18880@DESKTOP-PICR38M.main(1)"
+  }, {
+    "name" : "suite",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testClass",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "testMethod",
+    "value" : "Then click male radio button"
+  }, {
+    "name" : "package",
+    "value" : "enter the name, phone, number"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6a959b20dd779978.json",
+  "parameterValues" : [ ]
+}
