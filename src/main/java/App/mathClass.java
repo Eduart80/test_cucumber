@@ -1,7 +1,13 @@
 package App;
 
-public class mathClass {
-    public int adding(int numb1, int numb2){
-        return numb1 + numb2;
+
+import App.BasePage.*;
+
+public class mathClass extends mathAplication {
+
+    public void ekuacion(){
+        int resSub = sub(9,5);
+        System.out.println("Result of submission of 9 and 5 = "+ resSub);
     }
+
 }

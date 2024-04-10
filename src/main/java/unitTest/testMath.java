@@ -3,7 +3,7 @@ import App.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class testingMath  {
+public class testMath {
 
     mathClass mc = new mathClass();
     @Test
@@ -16,6 +16,15 @@ public class testingMath  {
         //using a sting as an input
         int result = mc.adding(Integer.parseInt("7"),2);
         Assert.assertNotEquals(result,4);
+    }
+    @Test
+    public void testName(){
+       String userName = mathClass.nameUser("Stock-Option");
+        System.out.println(userName);
+    }
+    @Test
+    public void testsub(){
+        mc.ekuacion();
     }
 
 }
