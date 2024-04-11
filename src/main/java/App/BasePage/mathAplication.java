@@ -1,6 +1,5 @@
 package App.BasePage;
 
-import App.Modulus.modularTheory;
 
 public class mathAplication {
 

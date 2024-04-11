@@ -1,56 +1,56 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1712542259094" stop="1712542261224" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1712801836295" stop="1712801838764" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>enter the name, phone, number</name>
     <title>enter the name, phone, number</title>
     <test-cases>
-        <test-case start="1712542259128" stop="1712542259133" status="passed">
+        <test-case start="1712801836326" stop="1712801836332" status="passed">
             <name>Given the url</name>
             <title>Given the url</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1712542259945" stop="1712542259945" status="passed">
+        <test-case start="1712801837585" stop="1712801837585" status="passed">
             <name>When on page enter name Mozaik</name>
             <title>When on page enter name Mozaik</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1712542260158" stop="1712542260158" status="passed">
+        <test-case start="1712801837738" stop="1712801837738" status="passed">
             <name>And enter your email test@test.com</name>
             <title>And enter your email test@test.com</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1712542260323" stop="1712542260323" status="passed">
+        <test-case start="1712801837851" stop="1712801837851" status="passed">
             <name>And enter your phone 123-456-7890</name>
             <title>And enter your phone 123-456-7890</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1712542260427" stop="1712542260427" status="passed">
+        <test-case start="1712801837954" stop="1712801837954" status="passed">
             <name>Then click male radio button</name>
             <title>Then click male radio button</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
     </test-cases>

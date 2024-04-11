@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<ns2:test-suite start="1712542273507" stop="1712542274410" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+<ns2:test-suite start="1712801843651" stop="1712801844419" version="1.4.15" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
     <name>Unit test</name>
     <title>Unit test</title>
     <test-cases>
-        <test-case start="1712542273507" stop="1712542273507" status="passed">
+        <test-case start="1712801843652" stop="1712801843652" status="passed">
             <name>Given the file in app Japan</name>
             <title>Given the file in app Japan</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1712542273511" stop="1712542273511" status="passed">
+        <test-case start="1712801843655" stop="1712801843655" status="passed">
             <name>When i enter 5 adding 2</name>
             <title>When i enter 5 adding 2</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
-        <test-case start="1712542273514" stop="1712542273514" status="passed">
+        <test-case start="1712801843657" stop="1712801843657" status="passed">
             <name>Then i should get 7</name>
             <title>Then i should get 7</title>
             <steps/>
             <attachments/>
             <labels>
                 <label name="host" value="DESKTOP-PICR38M"/>
-                <label name="thread" value="18880@DESKTOP-PICR38M.main(1)"/>
+                <label name="thread" value="11144@DESKTOP-PICR38M.main(1)"/>
             </labels>
         </test-case>
     </test-cases>

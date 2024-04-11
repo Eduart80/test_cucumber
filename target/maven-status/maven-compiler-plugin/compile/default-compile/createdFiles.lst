@@ -1,4 +1,6 @@
 App\mathClass.class
-unitTest\testingMath.class
 App\testSingleton.class
+unitTest\testMath.class
+App\BasePage\mathAplication.class
+App\Modulus\modularTheory.class
 App\singleton.class
